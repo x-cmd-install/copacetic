@@ -1,0 +1,62 @@
+about:
+  description: 🧵 CLI tool for directly patching container images!
+  license: Apache-2.0
+  homepage: https://project-copacetic.github.io/copacetic/
+  head: 17e9296
+  archived: false
+  latestVersion: v0.15.0
+  collectedAt: 2026-09-04T04:55:03Z
+timeline:
+  created: 2023-01-11
+  lastCommit: 2026-09-04
+  lastRelease: 2026-09-04
+popularity:
+  star: 1704
+  watcher: 12
+  fork: 123
+  release: 28
+  contributor: 51
+  pullRequest: 331
+  issue: 354
+language:
+  Go: 2272831
+  Shell: 68454
+  JavaScript: 16220
+  CSS: 9307
+  Dockerfile: 9068
+  Makefile: 7004
+  Open Policy Agent: 589
+totalLine: 2383473
+recent:
+  last30d:
+    since: 2026-08-05
+    release: 2
+    mergedPR: 15
+    openPR: 7
+    closedIssue: 1
+    openIssue: 3
+    commit: 23
+  last90d:
+    since: 2026-06-06
+    release: 3
+    mergedPR: 41
+    openPR: 10
+    closedIssue: 5
+    openIssue: 4
+    commit: 49
+  last180d:
+    since: 2026-03-08
+    release: 7
+    mergedPR: 124
+    openPR: 13
+    closedIssue: 23
+    openIssue: 5
+    commit: 124
+  last360d:
+    since: 2025-09-09
+    release: 12
+    mergedPR: 254
+    openPR: 13
+    closedIssue: 56
+    openIssue: 5
+    commit: 261
