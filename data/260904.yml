@@ -7,7 +7,7 @@ about:
   head: 17e9296
   archived: false
   latestVersion: v0.15.0
-  collectedAt: 2026-09-04T19:50:00Z
+  collectedAt: 2026-09-04T20:51:13Z
 timeline:
   created: 2023-01-11
   lastCommit: 2026-09-04
@@ -86,6 +86,89 @@ total:
   openIssue: 5
   commit: 996
 ---
+path: /home/runner/.x-repo/github.com/project-copacetic/copacetic
+collectedAt: 2026-09-04T20:51:17Z
+loc:
+  Go:
+    code: 55231
+    comments: 8207
+    blanks: 6879
+    files: 204
+  Json:
+    code: 1815
+    comments: 0
+    blanks: 0
+    files: 41
+  Sh:
+    code: 1675
+    comments: 133
+    blanks: 198
+    files: 15
+  JavaScript:
+    code: 472
+    comments: 27
+    blanks: 31
+    files: 12
+  Css:
+    code: 350
+    comments: 13
+    blanks: 22
+    files: 1
+  Dockerfile:
+    code: 183
+    comments: 44
+    blanks: 43
+    files: 11
+  Yaml:
+    code: 96
+    comments: 8
+    blanks: 4
+    files: 5
+  Makefile:
+    code: 95
+    comments: 46
+    blanks: 21
+    files: 1
+  MsBuild:
+    code: 23
+    comments: 4
+    blanks: 4
+    files: 2
+  Svg:
+    code: 23
+    comments: 0
+    blanks: 0
+    files: 3
+  OpenPolicyAgent:
+    code: 20
+    comments: 4
+    blanks: 8
+    files: 1
+  CSharp:
+    code: 15
+    comments: 0
+    blanks: 3
+    files: 2
+  Toml:
+    code: 15
+    comments: 0
+    blanks: 4
+    files: 1
+  Markdown:
+    code: 0
+    comments: 15654
+    blanks: 8058
+    files: 283
+  Text:
+    code: 0
+    comments: 54
+    blanks: 2
+    files: 13
+total:
+  code: 66508
+  comments: 25258
+  blanks: 15999
+  files: 595
 ---
 date: "2026-09-04T03:13:39Z"
 repo:
