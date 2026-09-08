@@ -67,7 +67,7 @@
       "state": "uploaded",
       "size": 820,
       "digest": "sha256:ff01e888efd293319470cddf5b27be031370c32edc0d0c2598e171c15010f5b4",
-      "download_count": 94,
+      "download_count": 96,
       "created_at": "2026-09-04T02:44:26Z",
       "updated_at": "2026-09-04T02:44:26Z",
       "browser_download_url": "https://github.com/project-copacetic/copacetic/releases/download/v0.15.0/copacetic_checksums.txt"
@@ -175,7 +175,7 @@
       "state": "uploaded",
       "size": 9946002,
       "digest": "sha256:b91309b46360c3294bd723399d06523163b387c46245e6c9f97e65e172f453b5",
-      "download_count": 13,
+      "download_count": 14,
       "created_at": "2026-09-04T02:44:24Z",
       "updated_at": "2026-09-04T02:44:25Z",
       "browser_download_url": "https://github.com/project-copacetic/copacetic/releases/download/v0.15.0/copa_0.15.0_darwin_arm64.tar.gz"
@@ -247,7 +247,7 @@
       "state": "uploaded",
       "size": 10400980,
       "digest": "sha256:cff3fe9320f3bd24bafcfd0ce877ef57e23acad0836da0ac6c253919f71c9cad",
-      "download_count": 346,
+      "download_count": 363,
       "created_at": "2026-09-04T02:44:24Z",
       "updated_at": "2026-09-04T02:44:25Z",
       "browser_download_url": "https://github.com/project-copacetic/copacetic/releases/download/v0.15.0/copa_0.15.0_linux_amd64.tar.gz"
@@ -319,7 +319,7 @@
       "state": "uploaded",
       "size": 9443653,
       "digest": "sha256:2444b6109c6164beef980641ec5f2813bc42b1703add6dd73591ace23051ca8f",
-      "download_count": 62,
+      "download_count": 67,
       "created_at": "2026-09-04T02:44:24Z",
       "updated_at": "2026-09-04T02:44:25Z",
       "browser_download_url": "https://github.com/project-copacetic/copacetic/releases/download/v0.15.0/copa_0.15.0_linux_arm64.tar.gz"
