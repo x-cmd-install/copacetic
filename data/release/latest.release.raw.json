@@ -247,7 +247,7 @@
       "state": "uploaded",
       "size": 10400980,
       "digest": "sha256:cff3fe9320f3bd24bafcfd0ce877ef57e23acad0836da0ac6c253919f71c9cad",
-      "download_count": 590,
+      "download_count": 592,
       "created_at": "2026-09-04T02:44:24Z",
       "updated_at": "2026-09-04T02:44:25Z",
       "browser_download_url": "https://github.com/project-copacetic/copacetic/releases/download/v0.15.0/copa_0.15.0_linux_amd64.tar.gz"

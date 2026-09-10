@@ -7,7 +7,7 @@ about:
   latestVersion: "v0.15.0"
   latestRelease: "v0.15.0"
   latestPrerelease: "v0.15.0-rc.0"
-  collectedAt: 2026-09-10T20:30:31Z
+  collectedAt: 2026-09-10T23:25:20Z
 timeline:
   created: 2023-01-11
   lastCommit: 2026-09-04
@@ -89,7 +89,7 @@ total:
   commit: 996
 ---
 path: /home/runner/.x-repo/github.com/project-copacetic/copacetic
-collectedAt: 2026-09-10T20:30:40Z
+collectedAt: 2026-09-10T23:25:27Z
 loc:
   Go:
     code: 55231
