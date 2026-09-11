@@ -31,8 +31,8 @@ Overall score: **7.5 / 10**
 Lowest-scoring checks:
 
 - **Signed-Releases** (0/10) — Project has not signed or included provenance with any releases.
-- **Vulnerabilities** (0/10) — 24 existing vulnerabilities detected
 - **Fuzzing** (0/10) — project is not fuzzed
+- **Vulnerabilities** (0/10) — 27 existing vulnerabilities detected
 
 ## Source
 
@@ -43,27 +43,27 @@ Lowest-scoring checks:
 ## Release
 
 - **Latest**: `v0.15.0` (2026-09-04)
-- **Last commit**: 2026-09-04
+- **Last commit**: 2026-09-11
 - **Assets in release**: 9
 
 ## Popularity
 
-- **Stars**: 1,703 · **Forks**: 123 · **Open issues**: 354 · **Contributors**: 51
+- **Stars**: 1,704 · **Forks**: 123 · **Open issues**: 354 · **Contributors**: 51
 
 ## Totals (cumulative)
 
-- **Releases**: 28 · **Merged PRs**: 1002 · **Open PRs**: 23 · **Closed issues**: 349 · **Open issues**: 5 · **Commits**: 996
+- **Releases**: 28 · **Merged PRs**: 1005 · **Open PRs**: 20 · **Closed issues**: 349 · **Open issues**: 5 · **Commits**: 999
 
 ## Recent activity
 
 | Window | Since | Releases | Merged PRs | Open PRs | Closed issues | Open issues | Commits |
 |---|---|---:|---:|---:|---:|---:|---:|
-| 30d | 2026-08-12 | 2 | 13 | 19 | 1 | 3 | 17 |
-| last60d | 2026-07-13 | 2 | 28 | 20 | 3 | 4 | 32 |
-| 90d | 2026-06-13 | 3 | 39 | 22 | 5 | 4 | 46 |
-| last180d | 2026-03-15 | 7 | 123 | 23 | 21 | 5 | 124 |
-| 360d | 2025-09-16 | 12 | 248 | 23 | 56 | 5 | 258 |
-| last720d | 2024-09-21 | 16 | 554 | 23 | 184 | 5 | 549 |
+| 30d | 2026-08-12 | 2 | 16 | 16 | 1 | 3 | 20 |
+| last60d | 2026-07-13 | 2 | 31 | 17 | 3 | 4 | 35 |
+| 90d | 2026-06-13 | 3 | 42 | 19 | 5 | 4 | 49 |
+| last180d | 2026-03-15 | 7 | 126 | 20 | 21 | 5 | 127 |
+| 360d | 2025-09-16 | 12 | 251 | 20 | 56 | 5 | 261 |
+| last720d | 2024-09-21 | 16 | 557 | 20 | 184 | 5 | 552 |
 
 ## Release assets
 
@@ -97,4 +97,4 @@ Install metadata for copacetic lives in the [x-cmd/install](https://github.com/x
 
 The data on this page (card / loc / scorecard / release) is auto-collected by [x-cmd-install-action](https://github.com/x-cmd-install/x-cmd-install-action) and is regenerated daily. Improvements to *install behaviour* (which version gets installed, platform-specific quirks, dependencies) belong upstream in the index.
 
-_Snapshot: `data/card/260911.yml` · 2026-09-11T03:08:13Z._
+_Snapshot: `data/card/260911.yml` · 2026-09-11T20:54:23Z._
