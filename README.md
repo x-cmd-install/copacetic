@@ -58,12 +58,12 @@ Lowest-scoring checks:
 
 | Window | Since | Releases | Merged PRs | Open PRs | Closed issues | Open issues | Commits |
 |---|---|---:|---:|---:|---:|---:|---:|
-| 30d | 2026-08-14 | 2 | 16 | 16 | 1 | 3 | 20 |
-| last60d | 2026-07-15 | 2 | 31 | 17 | 3 | 4 | 35 |
-| 90d | 2026-06-15 | 3 | 41 | 19 | 5 | 4 | 49 |
-| last180d | 2026-03-17 | 7 | 124 | 20 | 20 | 5 | 127 |
-| 360d | 2025-09-18 | 12 | 251 | 20 | 55 | 5 | 261 |
-| last720d | 2024-09-23 | 16 | 553 | 20 | 184 | 5 | 552 |
+| 30d | 2026-08-15 | 2 | 16 | 16 | 1 | 3 | 16 |
+| last60d | 2026-07-16 | 2 | 30 | 17 | 3 | 4 | 34 |
+| 90d | 2026-06-16 | 3 | 39 | 19 | 5 | 4 | 42 |
+| last180d | 2026-03-18 | 7 | 124 | 20 | 20 | 5 | 121 |
+| 360d | 2025-09-19 | 12 | 247 | 20 | 54 | 5 | 250 |
+| last720d | 2024-09-24 | 16 | 553 | 20 | 184 | 5 | 552 |
 
 ## Release assets
 
@@ -79,15 +79,6 @@ Lowest-scoring checks:
 | [copa_0.15.0_linux_arm64.tar.gz](https://github.com/project-copacetic/copacetic/releases/download/v0.15.0/copa_0.15.0_linux_arm64.tar.gz) | 9.0 MiB | `native/linux/arm64` |
 | [copa_0.15.0_linux_arm64.tar.gz.sbom.json](https://github.com/project-copacetic/copacetic/releases/download/v0.15.0/copa_0.15.0_linux_arm64.tar.gz.sbom.json) | 210.4 KiB | `native/linux/arm64` |
 
-## Distribution status
-
-Reported by **6** distros on [repology.org](https://repology.org/project/copacetic). **1** are ✅ on the latest upstream release, **5** are ⚠️ on an older version.
-
-| Distro | Version | Status |
-|--------|---------|--------|
-| Nix unstable | `0.14.2` | ⚠️ outdated |
-| openSUSE Tumbleweed | `0.14.2` | ⚠️ outdated |
-
 ## Improve this data
 
 Install metadata for copacetic lives in the [x-cmd/install](https://github.com/x-cmd/install) index — a curated YAML package list that x-cmd consumes at install time. If `copacetic` is missing, out of date, or installs incorrectly, please open an issue or PR there:
@@ -97,4 +88,4 @@ Install metadata for copacetic lives in the [x-cmd/install](https://github.com/x
 
 The data on this page (card / loc / scorecard / release) is auto-collected by [x-cmd-install-action](https://github.com/x-cmd-install/x-cmd-install-action) and is regenerated daily. Improvements to *install behaviour* (which version gets installed, platform-specific quirks, dependencies) belong upstream in the index.
 
-_Snapshot: `data/card/260913.yml` · 2026-09-13T03:18:14Z._
+_Snapshot: `data/card/260914.yml` · 2026-09-14T03:30:42Z._
