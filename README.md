@@ -4,7 +4,7 @@
 
 🧵 CLI tool for directly patching container images!
 
-![copacetic](https://repo.x-cmd.io/copacetic.svg)
+[![x-cmd/install — copacetic Code Quality Monitoring Repo Card](https://repo.x-cmd.io/copacetic.svg)](https://x-cmd.com/install/copacetic)
 
 ## Install
 
@@ -14,13 +14,13 @@ x install copacetic
 
 ## Code insight
 
-Total: **60,050** lines of code across **273** files in the top 5 languages.
+Total: **59,882** lines of code across **274** files in the top 5 languages.
 
 | Language | Code | Comments | Blanks | Files |
 |----------|-----:|---------:|-------:|------:|
-| Go | 55,268 | 8,216 | 6,888 | 204 |
-| Json | 1,815 | 0 | 0 | 41 |
-| Sh | 1,675 | 133 | 198 | 15 |
+| Go | 55,026 | 9,090 | 6,854 | 205 |
+| Json | 1,808 | 0 | 0 | 41 |
+| Sh | 1,756 | 145 | 202 | 15 |
 | JavaScript | 472 | 27 | 31 | 12 |
 | Css | 350 | 13 | 22 | 1 |
 
@@ -30,9 +30,9 @@ Overall score: **7.5 / 10**
 
 Lowest-scoring checks:
 
-- **Vulnerabilities** (0/10) — 27 existing vulnerabilities detected
-- **Signed-Releases** (0/10) — Project has not signed or included provenance with any releases.
+- **Vulnerabilities** (0/10) — 25 existing vulnerabilities detected
 - **Fuzzing** (0/10) — project is not fuzzed
+- **Signed-Releases** (0/10) — Project has not signed or included provenance with any releases.
 
 ## Source
 
@@ -43,27 +43,27 @@ Lowest-scoring checks:
 ## Release
 
 - **Latest**: `v0.15.0` (2026-09-04)
-- **Last commit**: 2026-09-15
+- **Last commit**: 2026-09-18
 - **Assets in release**: 9
 
 ## Popularity
 
-- **Stars**: 1,708 · **Forks**: 124 · **Open issues**: 355 · **Contributors**: 52
+- **Stars**: 1,710 · **Forks**: 124 · **Open issues**: 355 · **Contributors**: 52
 
 ## Totals (cumulative)
 
-- **Releases**: 28 · **Merged PRs**: 1006 · **Open PRs**: 25 · **Closed issues**: 349 · **Open issues**: 6 · **Commits**: 1000
+- **Releases**: 28 · **Merged PRs**: 1007 · **Open PRs**: 24 · **Closed issues**: 350 · **Open issues**: 5 · **Commits**: 1001
 
 ## Recent activity
 
 | Window | Since | Releases | Merged PRs | Open PRs | Closed issues | Open issues | Commits |
 |---|---|---:|---:|---:|---:|---:|---:|
-| 30d | 2026-08-19 | 2 | 13 | 21 | 1 | 4 | 17 |
-| last60d | 2026-07-20 | 2 | 31 | 22 | 2 | 5 | 35 |
-| 90d | 2026-06-20 | 3 | 40 | 24 | 5 | 5 | 43 |
-| last180d | 2026-03-22 | 7 | 124 | 25 | 20 | 6 | 122 |
-| 360d | 2025-09-23 | 12 | 242 | 25 | 53 | 6 | 251 |
-| last720d | 2024-09-28 | 16 | 554 | 25 | 182 | 6 | 553 |
+| 30d | 2026-08-21 | 2 | 14 | 20 | 2 | 0 | 18 |
+| last60d | 2026-07-22 | 2 | 32 | 20 | 3 | 4 | 36 |
+| 90d | 2026-06-22 | 3 | 37 | 23 | 6 | 4 | 44 |
+| last180d | 2026-03-24 | 7 | 123 | 24 | 20 | 5 | 123 |
+| 360d | 2025-09-25 | 12 | 243 | 24 | 53 | 5 | 252 |
+| last720d | 2024-09-30 | 16 | 553 | 24 | 183 | 5 | 554 |
 
 ## Release assets
 
@@ -88,4 +88,4 @@ Install metadata for copacetic lives in the [x-cmd/install](https://github.com/x
 
 The data on this page (card / loc / scorecard / release) is auto-collected by [x-cmd-install-action](https://github.com/x-cmd-install/x-cmd-install-action) and is regenerated daily. Improvements to *install behaviour* (which version gets installed, platform-specific quirks, dependencies) belong upstream in the index.
 
-_Snapshot: `data/card/260918.yml` · 2026-09-18T03:19:00Z._
+_Snapshot: `data/card/260920.yml` · 2026-09-20T03:32:20Z._

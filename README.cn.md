@@ -4,7 +4,7 @@
 
 🧵 CLI tool for directly patching container images!
 
-![copacetic](https://repo.x-cmd.io/copacetic.svg?lang=zh)
+[![x-cmd/install — copacetic Code Quality Monitoring Repo Card](https://repo.x-cmd.io/copacetic.svg?lang=zh)](https://x-cmd.com/install/copacetic)
 
 ## 安装
 
@@ -14,13 +14,13 @@ x install copacetic
 
 ## 代码洞察
 
-合计: **60,050** 行代码（覆盖前 5 种语言、共 **273** 个文件）。
+合计: **59,882** 行代码（覆盖前 5 种语言、共 **274** 个文件）。
 
 | 语言 | 代码 | 注释 | 空行 | 文件数 |
 |------|-----:|-----:|-----:|------:|
-| Go | 55,268 | 8,216 | 6,888 | 204 |
-| Json | 1,815 | 0 | 0 | 41 |
-| Sh | 1,675 | 133 | 198 | 15 |
+| Go | 55,026 | 9,090 | 6,854 | 205 |
+| Json | 1,808 | 0 | 0 | 41 |
+| Sh | 1,756 | 145 | 202 | 15 |
 | JavaScript | 472 | 27 | 31 | 12 |
 | Css | 350 | 13 | 22 | 1 |
 
@@ -30,9 +30,9 @@ x install copacetic
 
 评分最低的几项:
 
-- **Vulnerabilities** (0/10) — 27 existing vulnerabilities detected
-- **Signed-Releases** (0/10) — Project has not signed or included provenance with any releases.
+- **Vulnerabilities** (0/10) — 25 existing vulnerabilities detected
 - **Fuzzing** (0/10) — project is not fuzzed
+- **Signed-Releases** (0/10) — Project has not signed or included provenance with any releases.
 
 ## 源代码
 
@@ -43,27 +43,27 @@ x install copacetic
 ## 发布
 
 - **最新版本**: `v0.15.0` (2026-09-04)
-- **最近提交**: 2026-09-15
+- **最近提交**: 2026-09-18
 - **Release 含资产**: 9 个
 
 ## 流行度
 
-- **Star**: 1,708 · **Fork**: 124 · **开放 issue**: 355 · **贡献者**: 52
+- **Star**: 1,710 · **Fork**: 124 · **开放 issue**: 355 · **贡献者**: 52
 
 ## 累计统计
 
-- **发布数**: 28 · **已合并 PR**: 1006 · **开放 PR**: 25 · **已关闭 issue**: 349 · **开放 issue**: 6 · **提交数**: 1000
+- **发布数**: 28 · **已合并 PR**: 1007 · **开放 PR**: 24 · **已关闭 issue**: 350 · **开放 issue**: 5 · **提交数**: 1001
 
 ## 最近活动
 
 | 时间窗口 | 起始 | 发布 | 已合并 PR | 开放 PR | 已关闭 issue | 开放 issue | 提交 |
 |---|---|---:|---:|---:|---:|---:|---:|
-| 30d | 2026-08-19 | 2 | 13 | 21 | 1 | 4 | 17 |
-| last60d | 2026-07-20 | 2 | 31 | 22 | 2 | 5 | 35 |
-| 90d | 2026-06-20 | 3 | 40 | 24 | 5 | 5 | 43 |
-| last180d | 2026-03-22 | 7 | 124 | 25 | 20 | 6 | 122 |
-| 360d | 2025-09-23 | 12 | 242 | 25 | 53 | 6 | 251 |
-| last720d | 2024-09-28 | 16 | 554 | 25 | 182 | 6 | 553 |
+| 30d | 2026-08-21 | 2 | 14 | 20 | 2 | 0 | 18 |
+| last60d | 2026-07-22 | 2 | 32 | 20 | 3 | 4 | 36 |
+| 90d | 2026-06-22 | 3 | 37 | 23 | 6 | 4 | 44 |
+| last180d | 2026-03-24 | 7 | 123 | 24 | 20 | 5 | 123 |
+| 360d | 2025-09-25 | 12 | 243 | 24 | 53 | 5 | 252 |
+| last720d | 2024-09-30 | 16 | 553 | 24 | 183 | 5 | 554 |
 
 ## Release 资产
 
@@ -88,4 +88,4 @@ copacetic 的安装元数据由 [x-cmd/install](https://github.com/x-cmd/install
 
 本页面的数据（card / loc / scorecard / release）由 [x-cmd-install-action](https://github.com/x-cmd-install/x-cmd-install-action) 自动采集，每日重新生成。**安装行为**（版本选择、平台差异、依赖处理）的改进应提交到上游索引。
 
-_数据快照: `data/card/260918.yml` · 2026-09-18T03:19:01Z._
+_数据快照: `data/card/260920.yml` · 2026-09-20T03:32:21Z._
