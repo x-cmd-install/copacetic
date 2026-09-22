@@ -52,18 +52,18 @@ Lowest-scoring checks:
 
 ## Totals (cumulative)
 
-- **Releases**: 28 · **Merged PRs**: 1007 · **Open PRs**: 24 · **Closed issues**: 350 · **Open issues**: 5 · **Commits**: 1001
+- **Releases**: 28 · **Merged PRs**: 1007 · **Open PRs**: 25 · **Closed issues**: 350 · **Open issues**: 5 · **Commits**: 1001
 
 ## Recent activity
 
 | Window | Since | Releases | Merged PRs | Open PRs | Closed issues | Open issues | Commits |
 |---|---|---:|---:|---:|---:|---:|---:|
-| 30d | 2026-08-22 | 2 | 14 | 20 | 1 | 0 | 12 |
-| last60d | 2026-07-23 | 2 | 32 | 20 | 3 | 4 | 36 |
-| 90d | 2026-06-23 | 3 | 37 | 23 | 6 | 4 | 39 |
-| last180d | 2026-03-25 | 7 | 122 | 24 | 19 | 5 | 119 |
-| 360d | 2025-09-26 | 12 | 243 | 24 | 53 | 5 | 245 |
-| last720d | 2024-10-01 | 16 | 553 | 24 | 183 | 5 | 549 |
+| 30d | 2026-08-23 | 2 | 14 | 21 | 1 | 0 | 12 |
+| last60d | 2026-07-24 | 2 | 31 | 21 | 3 | 4 | 36 |
+| 90d | 2026-06-24 | 3 | 36 | 24 | 6 | 4 | 39 |
+| last180d | 2026-03-26 | 7 | 121 | 25 | 19 | 5 | 119 |
+| 360d | 2025-09-27 | 12 | 243 | 25 | 53 | 5 | 245 |
+| last720d | 2024-10-02 | 16 | 553 | 25 | 183 | 5 | 548 |
 
 ## Release assets
 
@@ -88,4 +88,4 @@ Install metadata for copacetic lives in the [x-cmd/install](https://github.com/x
 
 The data on this page (card / loc / scorecard / release) is auto-collected by [x-cmd-install-action](https://github.com/x-cmd-install/x-cmd-install-action) and is regenerated daily. Improvements to *install behaviour* (which version gets installed, platform-specific quirks, dependencies) belong upstream in the index.
 
-_Snapshot: `data/card/260921.yml` · 2026-09-21T03:27:03Z._
+_Snapshot: `data/card/260922.yml` · 2026-09-22T03:26:21Z._
