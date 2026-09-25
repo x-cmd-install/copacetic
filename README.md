@@ -48,22 +48,22 @@ Lowest-scoring checks:
 
 ## Popularity
 
-- **Stars**: 1,712 · **Forks**: 124 · **Open issues**: 355 · **Contributors**: 52
+- **Stars**: 1,712 · **Forks**: 124 · **Open issues**: 355 · **Contributors**: 53
 
 ## Totals (cumulative)
 
-- **Releases**: 28 · **Merged PRs**: 1007 · **Open PRs**: 25 · **Closed issues**: 350 · **Open issues**: 5 · **Commits**: 1001
+- **Releases**: 28 · **Merged PRs**: 1008 · **Open PRs**: 26 · **Closed issues**: 350 · **Open issues**: 5 · **Commits**: 1001
 
 ## Recent activity
 
 | Window | Since | Releases | Merged PRs | Open PRs | Closed issues | Open issues | Commits |
 |---|---|---:|---:|---:|---:|---:|---:|
-| 30d | 2026-08-25 | 2 | 11 | 20 | 1 | 0 | 12 |
-| last60d | 2026-07-26 | 2 | 30 | 21 | 3 | 4 | 36 |
-| 90d | 2026-06-26 | 3 | 36 | 24 | 6 | 4 | 39 |
-| last180d | 2026-03-28 | 7 | 121 | 25 | 19 | 5 | 119 |
-| 360d | 2025-09-29 | 12 | 240 | 25 | 52 | 5 | 245 |
-| last720d | 2024-10-04 | 16 | 553 | 25 | 180 | 5 | 548 |
+| 30d | 2026-08-26 | 2 | 11 | 21 | 1 | 0 | 12 |
+| last60d | 2026-07-27 | 2 | 28 | 22 | 3 | 4 | 36 |
+| 90d | 2026-06-27 | 3 | 37 | 25 | 6 | 4 | 39 |
+| last180d | 2026-03-29 | 7 | 122 | 26 | 19 | 5 | 119 |
+| 360d | 2025-09-30 | 12 | 240 | 26 | 51 | 5 | 245 |
+| last720d | 2024-10-05 | 16 | 554 | 26 | 180 | 5 | 548 |
 
 ## Release assets
 
@@ -88,4 +88,4 @@ Install metadata for copacetic lives in the [x-cmd/install](https://github.com/x
 
 The data on this page (card / loc / scorecard / release) is auto-collected by [x-cmd-install-action](https://github.com/x-cmd-install/x-cmd-install-action) and is regenerated daily. Improvements to *install behaviour* (which version gets installed, platform-specific quirks, dependencies) belong upstream in the index.
 
-_Snapshot: `data/card/260924.yml` · 2026-09-24T03:16:18Z._
+_Snapshot: `data/card/260925.yml` · 2026-09-25T03:33:54Z._
