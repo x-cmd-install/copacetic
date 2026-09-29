@@ -58,12 +58,12 @@ Lowest-scoring checks:
 
 | Window | Since | Releases | Merged PRs | Open PRs | Closed issues | Open issues | Commits |
 |---|---|---:|---:|---:|---:|---:|---:|
-| 30d | 2026-08-29 | 2 | 11 | 19 | 1 | 1 | 6 |
-| last60d | 2026-07-30 | 2 | 25 | 22 | 3 | 4 | 36 |
-| 90d | 2026-06-30 | 3 | 37 | 25 | 6 | 5 | 37 |
-| last180d | 2026-04-01 | 7 | 117 | 26 | 19 | 6 | 113 |
-| 360d | 2025-10-03 | 12 | 238 | 26 | 51 | 6 | 237 |
-| last720d | 2024-10-08 | 16 | 549 | 26 | 179 | 6 | 544 |
+| 30d | 2026-08-30 | 2 | 11 | 19 | 1 | 1 | 6 |
+| last60d | 2026-07-31 | 2 | 24 | 22 | 2 | 4 | 36 |
+| 90d | 2026-07-01 | 3 | 36 | 25 | 5 | 5 | 37 |
+| last180d | 2026-04-02 | 7 | 116 | 26 | 19 | 6 | 113 |
+| 360d | 2025-10-04 | 12 | 238 | 26 | 51 | 6 | 237 |
+| last720d | 2024-10-09 | 16 | 547 | 26 | 179 | 6 | 544 |
 
 ## Release assets
 
@@ -88,4 +88,4 @@ Install metadata for copacetic lives in the [x-cmd/install](https://github.com/x
 
 The data on this page (card / loc / scorecard / release) is auto-collected by [x-cmd-install-action](https://github.com/x-cmd-install/x-cmd-install-action) and is regenerated daily. Improvements to *install behaviour* (which version gets installed, platform-specific quirks, dependencies) belong upstream in the index.
 
-_Snapshot: `data/card/260928.yml` · 2026-09-28T03:47:55Z._
+_Snapshot: `data/card/260929.yml` · 2026-09-29T04:22:40Z._
