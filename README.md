@@ -26,13 +26,13 @@ Total: **59,882** lines of code across **274** files in the top 5 languages.
 
 ## OpenSSF Scorecard
 
-Overall score: **7.5 / 10**
+Overall score: **7.6 / 10**
 
 Lowest-scoring checks:
 
-- **Vulnerabilities** (0/10) — 25 existing vulnerabilities detected
-- **Fuzzing** (0/10) — project is not fuzzed
 - **Signed-Releases** (0/10) — Project has not signed or included provenance with any releases.
+- **Vulnerabilities** (0/10) — 26 existing vulnerabilities detected
+- **Fuzzing** (0/10) — project is not fuzzed
 
 ## Source
 
@@ -48,7 +48,7 @@ Lowest-scoring checks:
 
 ## Popularity
 
-- **Stars**: 1,715 · **Forks**: 124 · **Open issues**: 356 · **Contributors**: 53
+- **Stars**: 1,717 · **Forks**: 124 · **Open issues**: 356 · **Contributors**: 53
 
 ## Totals (cumulative)
 
@@ -58,12 +58,12 @@ Lowest-scoring checks:
 
 | Window | Since | Releases | Merged PRs | Open PRs | Closed issues | Open issues | Commits |
 |---|---|---:|---:|---:|---:|---:|---:|
-| 30d | 2026-08-30 | 2 | 11 | 19 | 1 | 1 | 6 |
-| last60d | 2026-07-31 | 2 | 24 | 22 | 2 | 4 | 36 |
-| 90d | 2026-07-01 | 3 | 36 | 25 | 5 | 5 | 37 |
-| last180d | 2026-04-02 | 7 | 116 | 26 | 19 | 6 | 113 |
-| 360d | 2025-10-04 | 12 | 238 | 26 | 51 | 6 | 237 |
-| last720d | 2024-10-09 | 16 | 547 | 26 | 179 | 6 | 544 |
+| 30d | 2026-08-31 | 2 | 10 | 18 | 1 | 1 | 6 |
+| last60d | 2026-08-01 | 2 | 22 | 22 | 2 | 4 | 36 |
+| 90d | 2026-07-02 | 3 | 34 | 24 | 5 | 5 | 37 |
+| last180d | 2026-04-03 | 7 | 116 | 26 | 19 | 6 | 113 |
+| 360d | 2025-10-05 | 12 | 238 | 26 | 51 | 6 | 237 |
+| last720d | 2024-10-10 | 16 | 547 | 26 | 179 | 6 | 543 |
 
 ## Release assets
 
@@ -88,4 +88,4 @@ Install metadata for copacetic lives in the [x-cmd/install](https://github.com/x
 
 The data on this page (card / loc / scorecard / release) is auto-collected by [x-cmd-install-action](https://github.com/x-cmd-install/x-cmd-install-action) and is regenerated daily. Improvements to *install behaviour* (which version gets installed, platform-specific quirks, dependencies) belong upstream in the index.
 
-_Snapshot: `data/card/260929.yml` · 2026-09-29T04:22:40Z._
+_Snapshot: `data/card/260930.yml` · 2026-09-30T04:06:02Z._

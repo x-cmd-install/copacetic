@@ -26,13 +26,13 @@ x install copacetic
 
 ## OpenSSF Scorecard 评分
 
-总评分: **7.5 / 10**
+总评分: **7.6 / 10**
 
 评分最低的几项:
 
-- **Vulnerabilities** (0/10) — 25 existing vulnerabilities detected
-- **Fuzzing** (0/10) — project is not fuzzed
 - **Signed-Releases** (0/10) — Project has not signed or included provenance with any releases.
+- **Vulnerabilities** (0/10) — 26 existing vulnerabilities detected
+- **Fuzzing** (0/10) — project is not fuzzed
 
 ## 源代码
 
@@ -48,7 +48,7 @@ x install copacetic
 
 ## 流行度
 
-- **Star**: 1,715 · **Fork**: 124 · **开放 issue**: 356 · **贡献者**: 53
+- **Star**: 1,717 · **Fork**: 124 · **开放 issue**: 356 · **贡献者**: 53
 
 ## 累计统计
 
@@ -58,12 +58,12 @@ x install copacetic
 
 | 时间窗口 | 起始 | 发布 | 已合并 PR | 开放 PR | 已关闭 issue | 开放 issue | 提交 |
 |---|---|---:|---:|---:|---:|---:|---:|
-| 30d | 2026-08-30 | 2 | 11 | 19 | 1 | 1 | 6 |
-| last60d | 2026-07-31 | 2 | 24 | 22 | 2 | 4 | 36 |
-| 90d | 2026-07-01 | 3 | 36 | 25 | 5 | 5 | 37 |
-| last180d | 2026-04-02 | 7 | 116 | 26 | 19 | 6 | 113 |
-| 360d | 2025-10-04 | 12 | 238 | 26 | 51 | 6 | 237 |
-| last720d | 2024-10-09 | 16 | 547 | 26 | 179 | 6 | 544 |
+| 30d | 2026-08-31 | 2 | 10 | 18 | 1 | 1 | 6 |
+| last60d | 2026-08-01 | 2 | 22 | 22 | 2 | 4 | 36 |
+| 90d | 2026-07-02 | 3 | 34 | 24 | 5 | 5 | 37 |
+| last180d | 2026-04-03 | 7 | 116 | 26 | 19 | 6 | 113 |
+| 360d | 2025-10-05 | 12 | 238 | 26 | 51 | 6 | 237 |
+| last720d | 2024-10-10 | 16 | 547 | 26 | 179 | 6 | 543 |
 
 ## Release 资产
 
@@ -88,4 +88,4 @@ copacetic 的安装元数据由 [x-cmd/install](https://github.com/x-cmd/install
 
 本页面的数据（card / loc / scorecard / release）由 [x-cmd-install-action](https://github.com/x-cmd-install/x-cmd-install-action) 自动采集，每日重新生成。**安装行为**（版本选择、平台差异、依赖处理）的改进应提交到上游索引。
 
-_数据快照: `data/card/260929.yml` · 2026-09-29T04:22:41Z._
+_数据快照: `data/card/260930.yml` · 2026-09-30T04:06:03Z._
