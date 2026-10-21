@@ -30,9 +30,9 @@ x install copacetic
 
 评分最低的几项:
 
-- **Signed-Releases** (0/10) — Project has not signed or included provenance with any releases.
+- **Vulnerabilities** (0/10) — 49 existing vulnerabilities detected
 - **Fuzzing** (0/10) — project is not fuzzed
-- **Vulnerabilities** (0/10) — 47 existing vulnerabilities detected
+- **Signed-Releases** (0/10) — Project has not signed or included provenance with any releases.
 
 ## 源代码
 
@@ -48,7 +48,7 @@ x install copacetic
 
 ## 流行度
 
-- **Star**: 1,732 · **Fork**: 128 · **开放 issue**: 359 · **贡献者**: 53
+- **Star**: 1,733 · **Fork**: 128 · **开放 issue**: 359 · **贡献者**: 53
 
 ## 累计统计
 
@@ -58,12 +58,12 @@ x install copacetic
 
 | 时间窗口 | 起始 | 发布 | 已合并 PR | 开放 PR | 已关闭 issue | 开放 issue | 提交 |
 |---|---|---:|---:|---:|---:|---:|---:|
-| 30d | 2026-09-20 | 0 | 0 | 11 | 0 | 5 | 0 |
-| last60d | 2026-08-21 | 2 | 14 | 28 | 2 | 5 | 17 |
-| 90d | 2026-07-22 | 2 | 32 | 28 | 3 | 9 | 36 |
-| last180d | 2026-04-23 | 7 | 87 | 31 | 13 | 9 | 89 |
-| 360d | 2025-10-25 | 10 | 217 | 31 | 47 | 9 | 212 |
-| last720d | 2024-10-30 | 15 | 537 | 31 | 176 | 9 | 531 |
+| 30d | 2026-09-21 | 0 | 0 | 9 | 0 | 5 | 0 |
+| last60d | 2026-08-22 | 2 | 14 | 28 | 1 | 5 | 17 |
+| 90d | 2026-07-23 | 2 | 32 | 28 | 3 | 9 | 36 |
+| last180d | 2026-04-24 | 7 | 86 | 31 | 12 | 9 | 89 |
+| 360d | 2025-10-26 | 10 | 217 | 31 | 47 | 9 | 212 |
+| last720d | 2024-10-31 | 15 | 537 | 31 | 176 | 9 | 531 |
 
 ## Release 资产
 
@@ -88,4 +88,4 @@ copacetic 的安装元数据由 [x-cmd/install](https://github.com/x-cmd/install
 
 本页面的数据（card / loc / scorecard / release）由 [x-cmd-install-action](https://github.com/x-cmd-install/x-cmd-install-action) 自动采集，每日重新生成。**安装行为**（版本选择、平台差异、依赖处理）的改进应提交到上游索引。
 
-_数据快照: `data/card/261020.yml` · 2026-10-20T03:31:15Z._
+_数据快照: `data/card/261021.yml` · 2026-10-21T03:25:24Z._
