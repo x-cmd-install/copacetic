@@ -48,22 +48,22 @@ Lowest-scoring checks:
 
 ## Popularity
 
-- **Stars**: 1,736 · **Forks**: 129 · **Open issues**: 360 · **Contributors**: 53
+- **Stars**: 1,737 · **Forks**: 129 · **Open issues**: 361 · **Contributors**: 53
 
 ## Totals (cumulative)
 
-- **Releases**: 28 · **Merged PRs**: 1008 · **Open PRs**: 33 · **Closed issues**: 350 · **Open issues**: 10 · **Commits**: 1001
+- **Releases**: 28 · **Merged PRs**: 1008 · **Open PRs**: 33 · **Closed issues**: 350 · **Open issues**: 11 · **Commits**: 1001
 
 ## Recent activity
 
 | Window | Since | Releases | Merged PRs | Open PRs | Closed issues | Open issues | Commits |
 |---|---|---:|---:|---:|---:|---:|---:|
-| 30d | 2026-09-22 | 0 | 0 | 11 | 0 | 6 | 0 |
-| last60d | 2026-08-23 | 2 | 14 | 30 | 1 | 6 | 17 |
-| 90d | 2026-07-24 | 2 | 31 | 30 | 3 | 10 | 36 |
-| last180d | 2026-04-25 | 7 | 85 | 33 | 12 | 10 | 89 |
-| 360d | 2025-10-27 | 10 | 215 | 33 | 47 | 10 | 212 |
-| last720d | 2024-11-01 | 15 | 537 | 33 | 176 | 10 | 531 |
+| 30d | 2026-09-23 | 0 | 0 | 11 | 0 | 7 | 0 |
+| last60d | 2026-08-24 | 2 | 11 | 29 | 1 | 7 | 17 |
+| 90d | 2026-07-25 | 2 | 31 | 30 | 3 | 11 | 36 |
+| last180d | 2026-04-26 | 7 | 85 | 33 | 12 | 11 | 89 |
+| 360d | 2025-10-28 | 10 | 214 | 33 | 46 | 11 | 212 |
+| last720d | 2024-11-02 | 15 | 536 | 33 | 176 | 11 | 531 |
 
 ## Release assets
 
@@ -79,6 +79,15 @@ Lowest-scoring checks:
 | [copa_0.15.0_linux_arm64.tar.gz](https://github.com/project-copacetic/copacetic/releases/download/v0.15.0/copa_0.15.0_linux_arm64.tar.gz) | 9.0 MiB | `native/linux/arm64` |
 | [copa_0.15.0_linux_arm64.tar.gz.sbom.json](https://github.com/project-copacetic/copacetic/releases/download/v0.15.0/copa_0.15.0_linux_arm64.tar.gz.sbom.json) | 210.4 KiB | `native/linux/arm64` |
 
+## Distribution status
+
+Reported by **6** distros on [repology.org](https://repology.org/project/copacetic). **2** are ✅ on the latest upstream release, **4** are ⚠️ on an older version.
+
+| Distro | Version | Status |
+|--------|---------|--------|
+| Nix unstable | `0.14.2` | ⚠️ outdated |
+| openSUSE Tumbleweed | `0.15.0` | ✅ latest |
+
 ## Improve this data
 
 Install metadata for copacetic lives in the [x-cmd/install](https://github.com/x-cmd/install) index — a curated YAML package list that x-cmd consumes at install time. If `copacetic` is missing, out of date, or installs incorrectly, please open an issue or PR there:
@@ -88,4 +97,4 @@ Install metadata for copacetic lives in the [x-cmd/install](https://github.com/x
 
 The data on this page (card / loc / scorecard / release) is auto-collected by [x-cmd-install-action](https://github.com/x-cmd-install/x-cmd-install-action) and is regenerated daily. Improvements to *install behaviour* (which version gets installed, platform-specific quirks, dependencies) belong upstream in the index.
 
-_Snapshot: `data/card/261022.yml` · 2026-10-22T03:24:16Z._
+_Snapshot: `data/card/261023.yml` · 2026-10-23T03:29:17Z._
