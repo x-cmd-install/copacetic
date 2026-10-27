@@ -48,7 +48,7 @@ Lowest-scoring checks:
 
 ## Popularity
 
-- **Stars**: 1,737 · **Forks**: 130 · **Open issues**: 361 · **Contributors**: 53
+- **Stars**: 1,738 · **Forks**: 131 · **Open issues**: 361 · **Contributors**: 53
 
 ## Totals (cumulative)
 
@@ -58,12 +58,12 @@ Lowest-scoring checks:
 
 | Window | Since | Releases | Merged PRs | Open PRs | Closed issues | Open issues | Commits |
 |---|---|---:|---:|---:|---:|---:|---:|
-| 30d | 2026-09-26 | 0 | 0 | 10 | 0 | 6 | 0 |
-| last60d | 2026-08-27 | 2 | 11 | 28 | 1 | 7 | 10 |
-| 90d | 2026-07-28 | 2 | 26 | 31 | 3 | 10 | 36 |
-| last180d | 2026-04-29 | 7 | 81 | 34 | 11 | 11 | 78 |
-| 360d | 2025-10-31 | 9 | 211 | 34 | 43 | 11 | 208 |
-| last720d | 2024-11-05 | 15 | 532 | 34 | 176 | 11 | 530 |
+| 30d | 2026-09-27 | 0 | 0 | 10 | 0 | 6 | 0 |
+| last60d | 2026-08-28 | 2 | 11 | 28 | 1 | 7 | 10 |
+| 90d | 2026-07-29 | 2 | 25 | 31 | 3 | 10 | 36 |
+| last180d | 2026-04-30 | 6 | 76 | 34 | 10 | 11 | 78 |
+| 360d | 2025-11-01 | 9 | 211 | 34 | 43 | 11 | 208 |
+| last720d | 2024-11-06 | 15 | 531 | 34 | 175 | 11 | 528 |
 
 ## Release assets
 
@@ -97,4 +97,4 @@ Install metadata for copacetic lives in the [x-cmd/install](https://github.com/x
 
 The data on this page (card / loc / scorecard / release) is auto-collected by [x-cmd-install-action](https://github.com/x-cmd-install/x-cmd-install-action) and is regenerated daily. Improvements to *install behaviour* (which version gets installed, platform-specific quirks, dependencies) belong upstream in the index.
 
-_Snapshot: `data/card/261026.yml` · 2026-10-26T03:20:43Z._
+_Snapshot: `data/card/261027.yml` · 2026-10-27T03:48:56Z._
