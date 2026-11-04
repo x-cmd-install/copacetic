@@ -30,9 +30,9 @@ Overall score: **7.6 / 10**
 
 Lowest-scoring checks:
 
-- **Vulnerabilities** (0/10) — 55 existing vulnerabilities detected
-- **Signed-Releases** (0/10) — Project has not signed or included provenance with any releases.
+- **Vulnerabilities** (0/10) — 65 existing vulnerabilities detected
 - **Fuzzing** (0/10) — project is not fuzzed
+- **Signed-Releases** (0/10) — Project has not signed or included provenance with any releases.
 
 ## Source
 
@@ -58,12 +58,12 @@ Lowest-scoring checks:
 
 | Window | Since | Releases | Merged PRs | Open PRs | Closed issues | Open issues | Commits |
 |---|---|---:|---:|---:|---:|---:|---:|
-| 30d | 2026-10-04 | 0 | 0 | 8 | 0 | 6 | 0 |
-| last60d | 2026-09-04 | 1 | 5 | 27 | 1 | 7 | 5 |
-| 90d | 2026-08-05 | 2 | 20 | 31 | 2 | 10 | 28 |
-| last180d | 2026-05-07 | 4 | 64 | 33 | 7 | 11 | 72 |
-| 360d | 2025-11-08 | 8 | 207 | 34 | 42 | 11 | 201 |
-| last720d | 2024-11-13 | 15 | 526 | 34 | 173 | 11 | 522 |
+| 30d | 2026-10-05 | 0 | 0 | 7 | 0 | 4 | 0 |
+| last60d | 2026-09-05 | 0 | 5 | 27 | 1 | 7 | 5 |
+| 90d | 2026-08-06 | 2 | 20 | 31 | 2 | 10 | 28 |
+| last180d | 2026-05-08 | 4 | 62 | 33 | 7 | 11 | 72 |
+| 360d | 2025-11-09 | 8 | 207 | 34 | 42 | 11 | 201 |
+| last720d | 2024-11-14 | 15 | 526 | 34 | 173 | 11 | 519 |
 
 ## Release assets
 
@@ -97,4 +97,4 @@ Install metadata for copacetic lives in the [x-cmd/install](https://github.com/x
 
 The data on this page (card / loc / scorecard / release) is auto-collected by [x-cmd-install-action](https://github.com/x-cmd-install/x-cmd-install-action) and is regenerated daily. Improvements to *install behaviour* (which version gets installed, platform-specific quirks, dependencies) belong upstream in the index.
 
-_Snapshot: `data/card/261103.yml` · 2026-11-03T05:27:42Z._
+_Snapshot: `data/card/261104.yml` · 2026-11-04T04:55:56Z._
