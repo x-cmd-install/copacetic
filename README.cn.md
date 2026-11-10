@@ -14,11 +14,11 @@ x install copacetic
 
 ## 代码洞察
 
-合计: **61,798** 行代码（覆盖前 5 种语言、共 **280** 个文件）。
+合计: **62,190** 行代码（覆盖前 5 种语言、共 **284** 个文件）。
 
 | 语言 | 代码 | 注释 | 空行 | 文件数 |
 |------|-----:|-----:|-----:|------:|
-| Go | 56,942 | 9,112 | 7,024 | 211 |
+| Go | 57,334 | 9,131 | 7,059 | 215 |
 | Json | 1,808 | 0 | 0 | 41 |
 | Sh | 1,756 | 145 | 202 | 15 |
 | JavaScript | 472 | 27 | 31 | 12 |
@@ -30,9 +30,9 @@ x install copacetic
 
 评分最低的几项:
 
-- **Vulnerabilities** (0/10) — 52 existing vulnerabilities detected
-- **Signed-Releases** (0/10) — Project has not signed or included provenance with any releases.
 - **Fuzzing** (0/10) — project is not fuzzed
+- **Vulnerabilities** (0/10) — 44 existing vulnerabilities detected
+- **Signed-Releases** (0/10) — Project has not signed or included provenance with any releases.
 
 ## 源代码
 
@@ -43,27 +43,27 @@ x install copacetic
 ## 发布
 
 - **最新版本**: `v0.15.0` (2026-09-04)
-- **最近提交**: 2026-11-05
+- **最近提交**: 2026-11-10
 - **Release 含资产**: 9 个
 
 ## 流行度
 
-- **Star**: 1,746 · **Fork**: 134 · **开放 issue**: 364 · **贡献者**: 54
+- **Star**: 1,747 · **Fork**: 134 · **开放 issue**: 364 · **贡献者**: 56
 
 ## 累计统计
 
-- **发布数**: 28 · **已合并 PR**: 1011 · **开放 PR**: 36 · **已关闭 issue**: 351 · **开放 issue**: 13 · **提交数**: 1004
+- **发布数**: 28 · **已合并 PR**: 1016 · **开放 PR**: 33 · **已关闭 issue**: 351 · **开放 issue**: 13 · **提交数**: 1009
 
 ## 最近活动
 
 | 时间窗口 | 起始 | 发布 | 已合并 PR | 开放 PR | 已关闭 issue | 开放 issue | 提交 |
 |---|---|---:|---:|---:|---:|---:|---:|
-| 30d | 2026-10-10 | 0 | 1 | 11 | 0 | 7 | 3 |
-| last60d | 2026-09-10 | 0 | 3 | 24 | 2 | 9 | 4 |
-| 90d | 2026-08-11 | 2 | 20 | 35 | 3 | 12 | 25 |
-| last180d | 2026-05-13 | 4 | 59 | 35 | 7 | 13 | 70 |
-| 360d | 2025-11-14 | 8 | 202 | 36 | 43 | 13 | 199 |
-| last720d | 2024-11-19 | 15 | 526 | 36 | 173 | 13 | 519 |
+| 30d | 2026-10-11 | 0 | 6 | 9 | 0 | 7 | 8 |
+| last60d | 2026-09-11 | 0 | 8 | 20 | 2 | 9 | 9 |
+| 90d | 2026-08-12 | 2 | 25 | 32 | 3 | 12 | 30 |
+| last180d | 2026-05-14 | 4 | 64 | 32 | 7 | 13 | 75 |
+| 360d | 2025-11-15 | 8 | 207 | 33 | 43 | 13 | 204 |
+| last720d | 2024-11-20 | 15 | 531 | 33 | 173 | 13 | 524 |
 
 ## Release 资产
 
@@ -79,15 +79,6 @@ x install copacetic
 | [copa_0.15.0_linux_arm64.tar.gz](https://github.com/project-copacetic/copacetic/releases/download/v0.15.0/copa_0.15.0_linux_arm64.tar.gz) | 9.0 MiB | `native/linux/arm64` |
 | [copa_0.15.0_linux_arm64.tar.gz.sbom.json](https://github.com/project-copacetic/copacetic/releases/download/v0.15.0/copa_0.15.0_linux_arm64.tar.gz.sbom.json) | 210.4 KiB | `native/linux/arm64` |
 
-## 发行版状态
-
-在 [repology.org](https://repology.org/project/copacetic) 上共有 **6** 个发行版报告此项目。**2** 个 ✅ 已是最新上游版本，**4** 个 ⚠️ 使用旧版本。
-
-| 发行版 | 版本 | 状态 |
-|--------|------|------|
-| Nix unstable | `0.14.2` | ⚠️ outdated |
-| openSUSE Tumbleweed | `0.15.0` | ✅ latest |
-
 ## 改进这些数据
 
 copacetic 的安装元数据由 [x-cmd/install](https://github.com/x-cmd/install) 索引维护——这是一份由 x-cmd 在安装时读取的精选 YAML 包列表。如果 `copacetic` 缺失、过期，或安装行为有问题，欢迎在该 repo 提 issue 或 PR：
@@ -97,4 +88,4 @@ copacetic 的安装元数据由 [x-cmd/install](https://github.com/x-cmd/install
 
 本页面的数据（card / loc / scorecard / release）由 [x-cmd-install-action](https://github.com/x-cmd-install/x-cmd-install-action) 自动采集，每日重新生成。**安装行为**（版本选择、平台差异、依赖处理）的改进应提交到上游索引。
 
-_数据快照: `data/card/261109.yml` · 2026-11-09T04:46:50Z._
+_数据快照: `data/card/261110.yml` · 2026-11-10T06:00:40Z._
