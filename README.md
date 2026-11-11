@@ -30,9 +30,9 @@ Overall score: **7.6 / 10**
 
 Lowest-scoring checks:
 
-- **Fuzzing** (0/10) — project is not fuzzed
-- **Vulnerabilities** (0/10) — 44 existing vulnerabilities detected
 - **Signed-Releases** (0/10) — Project has not signed or included provenance with any releases.
+- **Fuzzing** (0/10) — project is not fuzzed
+- **Vulnerabilities** (0/10) — 27 existing vulnerabilities detected
 
 ## Source
 
@@ -48,22 +48,22 @@ Lowest-scoring checks:
 
 ## Popularity
 
-- **Stars**: 1,747 · **Forks**: 134 · **Open issues**: 364 · **Contributors**: 56
+- **Stars**: 1,749 · **Forks**: 136 · **Open issues**: 371 · **Contributors**: 56
 
 ## Totals (cumulative)
 
-- **Releases**: 28 · **Merged PRs**: 1016 · **Open PRs**: 33 · **Closed issues**: 351 · **Open issues**: 13 · **Commits**: 1009
+- **Releases**: 28 · **Merged PRs**: 1025 · **Open PRs**: 23 · **Closed issues**: 352 · **Open issues**: 19 · **Commits**: 1018
 
 ## Recent activity
 
 | Window | Since | Releases | Merged PRs | Open PRs | Closed issues | Open issues | Commits |
 |---|---|---:|---:|---:|---:|---:|---:|
-| 30d | 2026-10-11 | 0 | 6 | 9 | 0 | 7 | 8 |
-| last60d | 2026-09-11 | 0 | 8 | 20 | 2 | 9 | 9 |
-| 90d | 2026-08-12 | 2 | 25 | 32 | 3 | 12 | 30 |
-| last180d | 2026-05-14 | 4 | 64 | 32 | 7 | 13 | 75 |
-| 360d | 2025-11-15 | 8 | 207 | 33 | 43 | 13 | 204 |
-| last720d | 2024-11-20 | 15 | 531 | 33 | 173 | 13 | 524 |
+| 30d | 2026-10-12 | 0 | 11 | 10 | 0 | 14 | 17 |
+| last60d | 2026-09-12 | 0 | 15 | 14 | 2 | 16 | 18 |
+| 90d | 2026-08-13 | 2 | 34 | 23 | 3 | 19 | 39 |
+| last180d | 2026-05-15 | 4 | 72 | 23 | 8 | 19 | 84 |
+| 360d | 2025-11-16 | 8 | 216 | 23 | 44 | 19 | 213 |
+| last720d | 2024-11-21 | 15 | 540 | 23 | 173 | 19 | 533 |
 
 ## Release assets
 
@@ -79,6 +79,15 @@ Lowest-scoring checks:
 | [copa_0.15.0_linux_arm64.tar.gz](https://github.com/project-copacetic/copacetic/releases/download/v0.15.0/copa_0.15.0_linux_arm64.tar.gz) | 9.0 MiB | `native/linux/arm64` |
 | [copa_0.15.0_linux_arm64.tar.gz.sbom.json](https://github.com/project-copacetic/copacetic/releases/download/v0.15.0/copa_0.15.0_linux_arm64.tar.gz.sbom.json) | 210.4 KiB | `native/linux/arm64` |
 
+## Distribution status
+
+Reported by **6** distros on [repology.org](https://repology.org/project/copacetic). **2** are ✅ on the latest upstream release, **4** are ⚠️ on an older version.
+
+| Distro | Version | Status |
+|--------|---------|--------|
+| Nix unstable | `0.14.2` | ⚠️ outdated |
+| openSUSE Tumbleweed | `0.15.0` | ✅ latest |
+
 ## Improve this data
 
 Install metadata for copacetic lives in the [x-cmd/install](https://github.com/x-cmd/install) index — a curated YAML package list that x-cmd consumes at install time. If `copacetic` is missing, out of date, or installs incorrectly, please open an issue or PR there:
@@ -88,4 +97,4 @@ Install metadata for copacetic lives in the [x-cmd/install](https://github.com/x
 
 The data on this page (card / loc / scorecard / release) is auto-collected by [x-cmd-install-action](https://github.com/x-cmd-install/x-cmd-install-action) and is regenerated daily. Improvements to *install behaviour* (which version gets installed, platform-specific quirks, dependencies) belong upstream in the index.
 
-_Snapshot: `data/card/261110.yml` · 2026-11-10T06:00:39Z._
+_Snapshot: `data/card/261111.yml` · 2026-11-11T04:50:04Z._
