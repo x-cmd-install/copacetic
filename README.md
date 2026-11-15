@@ -14,11 +14,11 @@ x install copacetic
 
 ## Code insight
 
-Total: **81,687** lines of code across **382** files in the top 5 languages.
+Total: **81,719** lines of code across **382** files in the top 5 languages.
 
 | Language | Code | Comments | Blanks | Files |
 |----------|-----:|---------:|-------:|------:|
-| Go | 76,818 | 10,043 | 8,218 | 313 |
+| Go | 76,850 | 10,046 | 8,221 | 313 |
 | Json | 1,809 | 0 | 0 | 41 |
 | Sh | 1,756 | 145 | 202 | 15 |
 | JavaScript | 473 | 27 | 31 | 12 |
@@ -30,9 +30,9 @@ Overall score: **7.5 / 10**
 
 Lowest-scoring checks:
 
-- **Fuzzing** (0/10) — project is not fuzzed
-- **Vulnerabilities** (0/10) — 24 existing vulnerabilities detected
 - **Signed-Releases** (0/10) — Project has not signed or included provenance with any releases.
+- **Fuzzing** (0/10) — project is not fuzzed
+- **Vulnerabilities** (0/10) — 20 existing vulnerabilities detected
 
 ## Source
 
@@ -43,27 +43,27 @@ Lowest-scoring checks:
 ## Release
 
 - **Latest**: `v0.15.0` (2026-09-04)
-- **Last commit**: 2026-11-13
+- **Last commit**: 2026-11-14
 - **Assets in release**: 9
 
 ## Popularity
 
-- **Stars**: 1,752 · **Forks**: 137 · **Open issues**: 376 · **Contributors**: 61
+- **Stars**: 1,753 · **Forks**: 137 · **Open issues**: 377 · **Contributors**: 61
 
 ## Totals (cumulative)
 
-- **Releases**: 28 · **Merged PRs**: 1040 · **Open PRs**: 18 · **Closed issues**: 357 · **Open issues**: 19 · **Commits**: 1033
+- **Releases**: 28 · **Merged PRs**: 1045 · **Open PRs**: 14 · **Closed issues**: 357 · **Open issues**: 20 · **Commits**: 1038
 
 ## Recent activity
 
 | Window | Since | Releases | Merged PRs | Open PRs | Closed issues | Open issues | Commits |
 |---|---|---:|---:|---:|---:|---:|---:|
-| 30d | 2026-10-15 | 0 | 21 | 10 | 3 | 16 | 32 |
-| last60d | 2026-09-15 | 0 | 24 | 13 | 4 | 18 | 33 |
-| 90d | 2026-08-16 | 2 | 48 | 18 | 8 | 19 | 54 |
-| last180d | 2026-05-18 | 4 | 85 | 18 | 13 | 19 | 99 |
-| 360d | 2025-11-19 | 8 | 226 | 18 | 47 | 19 | 228 |
-| last720d | 2024-11-24 | 15 | 555 | 18 | 178 | 19 | 548 |
+| 30d | 2026-10-16 | 0 | 25 | 8 | 3 | 17 | 37 |
+| last60d | 2026-09-16 | 0 | 28 | 10 | 4 | 19 | 37 |
+| 90d | 2026-08-17 | 2 | 53 | 14 | 8 | 20 | 55 |
+| last180d | 2026-05-19 | 3 | 89 | 14 | 13 | 20 | 92 |
+| 360d | 2025-11-20 | 8 | 230 | 14 | 47 | 20 | 230 |
+| last720d | 2024-11-25 | 15 | 555 | 14 | 178 | 20 | 553 |
 
 ## Release assets
 
@@ -97,4 +97,4 @@ Install metadata for copacetic lives in the [x-cmd/install](https://github.com/x
 
 The data on this page (card / loc / scorecard / release) is auto-collected by [x-cmd-install-action](https://github.com/x-cmd-install/x-cmd-install-action) and is regenerated daily. Improvements to *install behaviour* (which version gets installed, platform-specific quirks, dependencies) belong upstream in the index.
 
-_Snapshot: `data/card/261114.yml` · 2026-11-14T05:02:44Z._
+_Snapshot: `data/card/261115.yml` · 2026-11-15T04:55:34Z._
