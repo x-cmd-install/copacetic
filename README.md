@@ -31,8 +31,8 @@ Overall score: **7.5 / 10**
 Lowest-scoring checks:
 
 - **Signed-Releases** (0/10) — Project has not signed or included provenance with any releases.
-- **Fuzzing** (0/10) — project is not fuzzed
 - **Vulnerabilities** (0/10) — 20 existing vulnerabilities detected
+- **Fuzzing** (0/10) — project is not fuzzed
 
 ## Source
 
@@ -43,7 +43,7 @@ Lowest-scoring checks:
 ## Release
 
 - **Latest**: `v0.15.0` (2026-09-04)
-- **Last commit**: 2026-11-14
+- **Last commit**: 2026-11-15
 - **Assets in release**: 9
 
 ## Popularity
@@ -52,18 +52,18 @@ Lowest-scoring checks:
 
 ## Totals (cumulative)
 
-- **Releases**: 28 · **Merged PRs**: 1045 · **Open PRs**: 14 · **Closed issues**: 357 · **Open issues**: 20 · **Commits**: 1038
+- **Releases**: 28 · **Merged PRs**: 1046 · **Open PRs**: 14 · **Closed issues**: 358 · **Open issues**: 19 · **Commits**: 1039
 
 ## Recent activity
 
 | Window | Since | Releases | Merged PRs | Open PRs | Closed issues | Open issues | Commits |
 |---|---|---:|---:|---:|---:|---:|---:|
-| 30d | 2026-10-16 | 0 | 25 | 8 | 3 | 17 | 37 |
-| last60d | 2026-09-16 | 0 | 28 | 10 | 4 | 19 | 37 |
-| 90d | 2026-08-17 | 2 | 53 | 14 | 8 | 20 | 55 |
-| last180d | 2026-05-19 | 3 | 89 | 14 | 13 | 20 | 92 |
-| 360d | 2025-11-20 | 8 | 230 | 14 | 47 | 20 | 230 |
-| last720d | 2024-11-25 | 15 | 555 | 14 | 178 | 20 | 553 |
+| 30d | 2026-10-17 | 0 | 25 | 9 | 4 | 16 | 38 |
+| last60d | 2026-09-17 | 0 | 28 | 10 | 5 | 18 | 38 |
+| 90d | 2026-08-18 | 2 | 53 | 14 | 9 | 19 | 56 |
+| last180d | 2026-05-20 | 3 | 90 | 14 | 14 | 19 | 93 |
+| 360d | 2025-11-21 | 8 | 231 | 14 | 48 | 19 | 231 |
+| last720d | 2024-11-26 | 15 | 556 | 14 | 178 | 19 | 549 |
 
 ## Release assets
 
@@ -97,4 +97,4 @@ Install metadata for copacetic lives in the [x-cmd/install](https://github.com/x
 
 The data on this page (card / loc / scorecard / release) is auto-collected by [x-cmd-install-action](https://github.com/x-cmd-install/x-cmd-install-action) and is regenerated daily. Improvements to *install behaviour* (which version gets installed, platform-specific quirks, dependencies) belong upstream in the index.
 
-_Snapshot: `data/card/261115.yml` · 2026-11-15T04:55:34Z._
+_Snapshot: `data/card/261116.yml` · 2026-11-16T04:52:00Z._
