@@ -14,11 +14,11 @@ x install copacetic
 
 ## Code insight
 
-Total: **82,829** lines of code across **387** files in the top 5 languages.
+Total: **84,423** lines of code across **388** files in the top 5 languages.
 
 | Language | Code | Comments | Blanks | Files |
 |----------|-----:|---------:|-------:|------:|
-| Go | 77,960 | 10,181 | 8,315 | 318 |
+| Go | 79,554 | 10,413 | 8,531 | 319 |
 | Json | 1,809 | 0 | 0 | 41 |
 | Sh | 1,756 | 145 | 202 | 15 |
 | JavaScript | 473 | 27 | 31 | 12 |
@@ -43,27 +43,27 @@ Lowest-scoring checks:
 ## Release
 
 - **Latest**: `v0.15.0` (2026-09-04)
-- **Last commit**: 2026-11-19
+- **Last commit**: 2026-11-20
 - **Assets in release**: 9
 
 ## Popularity
 
-- **Stars**: 1,754 · **Forks**: 137 · **Open issues**: 377 · **Contributors**: 61
+- **Stars**: 1,754 · **Forks**: 139 · **Open issues**: 377 · **Contributors**: 63
 
 ## Totals (cumulative)
 
-- **Releases**: 28 · **Merged PRs**: 1055 · **Open PRs**: 14 · **Closed issues**: 360 · **Open issues**: 17 · **Commits**: 1048
+- **Releases**: 28 · **Merged PRs**: 1058 · **Open PRs**: 15 · **Closed issues**: 362 · **Open issues**: 15 · **Commits**: 1051
 
 ## Recent activity
 
 | Window | Since | Releases | Merged PRs | Open PRs | Closed issues | Open issues | Commits |
 |---|---|---:|---:|---:|---:|---:|---:|
-| 30d | 2026-10-20 | 0 | 33 | 10 | 6 | 12 | 47 |
-| last60d | 2026-09-20 | 0 | 37 | 11 | 7 | 16 | 47 |
-| 90d | 2026-08-21 | 2 | 60 | 14 | 9 | 16 | 65 |
-| last180d | 2026-05-23 | 3 | 97 | 14 | 16 | 17 | 102 |
-| 360d | 2025-11-24 | 8 | 237 | 14 | 49 | 17 | 240 |
-| last720d | 2024-11-29 | 15 | 565 | 14 | 179 | 17 | 558 |
+| 30d | 2026-10-21 | 0 | 34 | 12 | 7 | 11 | 50 |
+| last60d | 2026-09-21 | 0 | 39 | 13 | 9 | 14 | 50 |
+| 90d | 2026-08-22 | 2 | 63 | 15 | 10 | 14 | 68 |
+| last180d | 2026-05-24 | 3 | 100 | 15 | 18 | 15 | 105 |
+| 360d | 2025-11-25 | 8 | 239 | 15 | 50 | 15 | 243 |
+| last720d | 2024-11-30 | 15 | 568 | 15 | 181 | 15 | 561 |
 
 ## Release assets
 
@@ -97,4 +97,4 @@ Install metadata for copacetic lives in the [x-cmd/install](https://github.com/x
 
 The data on this page (card / loc / scorecard / release) is auto-collected by [x-cmd-install-action](https://github.com/x-cmd-install/x-cmd-install-action) and is regenerated daily. Improvements to *install behaviour* (which version gets installed, platform-specific quirks, dependencies) belong upstream in the index.
 
-_Snapshot: `data/card/261119.yml` · 2026-11-19T05:59:59Z._
+_Snapshot: `data/card/261120.yml` · 2026-11-20T05:49:55Z._
