@@ -26,12 +26,11 @@ Total: **85,713** lines of code across **395** files in the top 5 languages.
 
 ## OpenSSF Scorecard
 
-Overall score: **7.6 / 10**
+Overall score: **8.3 / 10**
 
 Lowest-scoring checks:
 
-- **Vulnerabilities** (0/10) — 19 existing vulnerabilities detected
-- **Signed-Releases** (0/10) — Project has not signed or included provenance with any releases.
+- **Vulnerabilities** (0/10) — 17 existing vulnerabilities detected
 - **Fuzzing** (0/10) — project is not fuzzed
 
 ## Source
@@ -43,27 +42,27 @@ Lowest-scoring checks:
 ## Release
 
 - **Latest**: `v0.15.0` (2026-09-04)
-- **Last commit**: 2026-11-23
+- **Last commit**: 2026-11-24
 - **Assets in release**: 9
 
 ## Popularity
 
-- **Stars**: 1,765 · **Forks**: 141 · **Open issues**: 380 · **Contributors**: 63
+- **Stars**: 1,771 · **Forks**: 142 · **Open issues**: 383 · **Contributors**: 63
 
 ## Totals (cumulative)
 
-- **Releases**: 28 · **Merged PRs**: 1063 · **Open PRs**: 15 · **Closed issues**: 365 · **Open issues**: 15 · **Commits**: 1056
+- **Releases**: 28 · **Merged PRs**: 1070 · **Open PRs**: 15 · **Closed issues**: 367 · **Open issues**: 16 · **Commits**: 1063
 
 ## Recent activity
 
 | Window | Since | Releases | Merged PRs | Open PRs | Closed issues | Open issues | Commits |
 |---|---|---:|---:|---:|---:|---:|---:|
-| 30d | 2026-10-24 | 0 | 38 | 13 | 7 | 12 | 55 |
-| last60d | 2026-09-24 | 0 | 43 | 14 | 12 | 14 | 55 |
-| 90d | 2026-08-25 | 2 | 64 | 15 | 13 | 14 | 66 |
-| last180d | 2026-05-27 | 3 | 105 | 15 | 21 | 15 | 110 |
-| 360d | 2025-11-28 | 8 | 242 | 15 | 53 | 15 | 240 |
-| last720d | 2024-12-03 | 15 | 572 | 15 | 184 | 15 | 565 |
+| 30d | 2026-10-25 | 0 | 45 | 13 | 9 | 13 | 62 |
+| last60d | 2026-09-25 | 0 | 50 | 14 | 13 | 15 | 62 |
+| 90d | 2026-08-26 | 2 | 71 | 15 | 15 | 15 | 73 |
+| last180d | 2026-05-28 | 3 | 112 | 15 | 23 | 16 | 117 |
+| 360d | 2025-11-29 | 8 | 249 | 15 | 55 | 16 | 247 |
+| last720d | 2024-12-04 | 15 | 579 | 15 | 186 | 16 | 572 |
 
 ## Release assets
 
@@ -97,4 +96,4 @@ Install metadata for copacetic lives in the [x-cmd/install](https://github.com/x
 
 The data on this page (card / loc / scorecard / release) is auto-collected by [x-cmd-install-action](https://github.com/x-cmd-install/x-cmd-install-action) and is regenerated daily. Improvements to *install behaviour* (which version gets installed, platform-specific quirks, dependencies) belong upstream in the index.
 
-_Snapshot: `data/card/261123.yml` · 2026-11-23T05:53:32Z._
+_Snapshot: `data/card/261124.yml` · 2026-11-24T08:32:10Z._

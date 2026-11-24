@@ -26,12 +26,11 @@ x install copacetic
 
 ## OpenSSF Scorecard 评分
 
-总评分: **7.6 / 10**
+总评分: **8.3 / 10**
 
 评分最低的几项:
 
-- **Vulnerabilities** (0/10) — 19 existing vulnerabilities detected
-- **Signed-Releases** (0/10) — Project has not signed or included provenance with any releases.
+- **Vulnerabilities** (0/10) — 17 existing vulnerabilities detected
 - **Fuzzing** (0/10) — project is not fuzzed
 
 ## 源代码
@@ -43,27 +42,27 @@ x install copacetic
 ## 发布
 
 - **最新版本**: `v0.15.0` (2026-09-04)
-- **最近提交**: 2026-11-23
+- **最近提交**: 2026-11-24
 - **Release 含资产**: 9 个
 
 ## 流行度
 
-- **Star**: 1,765 · **Fork**: 141 · **开放 issue**: 380 · **贡献者**: 63
+- **Star**: 1,771 · **Fork**: 142 · **开放 issue**: 383 · **贡献者**: 63
 
 ## 累计统计
 
-- **发布数**: 28 · **已合并 PR**: 1063 · **开放 PR**: 15 · **已关闭 issue**: 365 · **开放 issue**: 15 · **提交数**: 1056
+- **发布数**: 28 · **已合并 PR**: 1070 · **开放 PR**: 15 · **已关闭 issue**: 367 · **开放 issue**: 16 · **提交数**: 1063
 
 ## 最近活动
 
 | 时间窗口 | 起始 | 发布 | 已合并 PR | 开放 PR | 已关闭 issue | 开放 issue | 提交 |
 |---|---|---:|---:|---:|---:|---:|---:|
-| 30d | 2026-10-24 | 0 | 38 | 13 | 7 | 12 | 55 |
-| last60d | 2026-09-24 | 0 | 43 | 14 | 12 | 14 | 55 |
-| 90d | 2026-08-25 | 2 | 64 | 15 | 13 | 14 | 66 |
-| last180d | 2026-05-27 | 3 | 105 | 15 | 21 | 15 | 110 |
-| 360d | 2025-11-28 | 8 | 242 | 15 | 53 | 15 | 240 |
-| last720d | 2024-12-03 | 15 | 572 | 15 | 184 | 15 | 565 |
+| 30d | 2026-10-25 | 0 | 45 | 13 | 9 | 13 | 62 |
+| last60d | 2026-09-25 | 0 | 50 | 14 | 13 | 15 | 62 |
+| 90d | 2026-08-26 | 2 | 71 | 15 | 15 | 15 | 73 |
+| last180d | 2026-05-28 | 3 | 112 | 15 | 23 | 16 | 117 |
+| 360d | 2025-11-29 | 8 | 249 | 15 | 55 | 16 | 247 |
+| last720d | 2024-12-04 | 15 | 579 | 15 | 186 | 16 | 572 |
 
 ## Release 资产
 
@@ -97,4 +96,4 @@ copacetic 的安装元数据由 [x-cmd/install](https://github.com/x-cmd/install
 
 本页面的数据（card / loc / scorecard / release）由 [x-cmd-install-action](https://github.com/x-cmd-install/x-cmd-install-action) 自动采集，每日重新生成。**安装行为**（版本选择、平台差异、依赖处理）的改进应提交到上游索引。
 
-_数据快照: `data/card/261123.yml` · 2026-11-23T05:53:33Z._
+_数据快照: `data/card/261124.yml` · 2026-11-24T08:32:12Z._
