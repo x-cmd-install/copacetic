@@ -14,11 +14,11 @@ x install copacetic
 
 ## Code insight
 
-Total: **85,713** lines of code across **395** files in the top 5 languages.
+Total: **86,466** lines of code across **397** files in the top 5 languages.
 
 | Language | Code | Comments | Blanks | Files |
 |----------|-----:|---------:|-------:|------:|
-| Go | 80,825 | 10,613 | 8,644 | 326 |
+| Go | 81,578 | 10,702 | 8,687 | 328 |
 | Json | 1,809 | 0 | 0 | 41 |
 | Sh | 1,756 | 145 | 202 | 15 |
 | JavaScript | 473 | 27 | 31 | 12 |
@@ -47,22 +47,22 @@ Lowest-scoring checks:
 
 ## Popularity
 
-- **Stars**: 1,771 · **Forks**: 142 · **Open issues**: 383 · **Contributors**: 63
+- **Stars**: 1,774 · **Forks**: 143 · **Open issues**: 384 · **Contributors**: 64
 
 ## Totals (cumulative)
 
-- **Releases**: 28 · **Merged PRs**: 1070 · **Open PRs**: 15 · **Closed issues**: 367 · **Open issues**: 16 · **Commits**: 1063
+- **Releases**: 28 · **Merged PRs**: 1072 · **Open PRs**: 15 · **Closed issues**: 369 · **Open issues**: 15 · **Commits**: 1065
 
 ## Recent activity
 
 | Window | Since | Releases | Merged PRs | Open PRs | Closed issues | Open issues | Commits |
 |---|---|---:|---:|---:|---:|---:|---:|
-| 30d | 2026-10-25 | 0 | 45 | 13 | 9 | 13 | 62 |
-| last60d | 2026-09-25 | 0 | 50 | 14 | 13 | 15 | 62 |
-| 90d | 2026-08-26 | 2 | 71 | 15 | 15 | 15 | 73 |
-| last180d | 2026-05-28 | 3 | 112 | 15 | 23 | 16 | 117 |
-| 360d | 2025-11-29 | 8 | 249 | 15 | 55 | 16 | 247 |
-| last720d | 2024-12-04 | 15 | 579 | 15 | 186 | 16 | 572 |
+| 30d | 2026-10-26 | 0 | 47 | 13 | 10 | 13 | 64 |
+| last60d | 2026-09-26 | 0 | 52 | 14 | 15 | 14 | 64 |
+| 90d | 2026-08-27 | 2 | 71 | 15 | 17 | 14 | 75 |
+| last180d | 2026-05-29 | 3 | 114 | 15 | 25 | 15 | 119 |
+| 360d | 2025-11-30 | 8 | 251 | 15 | 57 | 15 | 249 |
+| last720d | 2024-12-05 | 15 | 580 | 15 | 188 | 15 | 574 |
 
 ## Release assets
 
@@ -96,4 +96,4 @@ Install metadata for copacetic lives in the [x-cmd/install](https://github.com/x
 
 The data on this page (card / loc / scorecard / release) is auto-collected by [x-cmd-install-action](https://github.com/x-cmd-install/x-cmd-install-action) and is regenerated daily. Improvements to *install behaviour* (which version gets installed, platform-specific quirks, dependencies) belong upstream in the index.
 
-_Snapshot: `data/card/261124.yml` · 2026-11-24T08:32:10Z._
+_Snapshot: `data/card/261125.yml` · 2026-11-25T07:06:20Z._
