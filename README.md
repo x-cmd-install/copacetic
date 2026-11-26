@@ -14,11 +14,11 @@ x install copacetic
 
 ## Code insight
 
-Total: **86,466** lines of code across **397** files in the top 5 languages.
+Total: **86,638** lines of code across **397** files in the top 5 languages.
 
 | Language | Code | Comments | Blanks | Files |
 |----------|-----:|---------:|-------:|------:|
-| Go | 81,578 | 10,702 | 8,687 | 328 |
+| Go | 81,750 | 10,722 | 8,690 | 328 |
 | Json | 1,809 | 0 | 0 | 41 |
 | Sh | 1,756 | 145 | 202 | 15 |
 | JavaScript | 473 | 27 | 31 | 12 |
@@ -42,27 +42,27 @@ Lowest-scoring checks:
 ## Release
 
 - **Latest**: `v0.15.0` (2026-09-04)
-- **Last commit**: 2026-11-24
+- **Last commit**: 2026-11-26
 - **Assets in release**: 9
 
 ## Popularity
 
-- **Stars**: 1,774 · **Forks**: 143 · **Open issues**: 384 · **Contributors**: 64
+- **Stars**: 1,774 · **Forks**: 143 · **Open issues**: 385 · **Contributors**: 65
 
 ## Totals (cumulative)
 
-- **Releases**: 28 · **Merged PRs**: 1072 · **Open PRs**: 15 · **Closed issues**: 369 · **Open issues**: 15 · **Commits**: 1065
+- **Releases**: 28 · **Merged PRs**: 1074 · **Open PRs**: 14 · **Closed issues**: 370 · **Open issues**: 15 · **Commits**: 1067
 
 ## Recent activity
 
 | Window | Since | Releases | Merged PRs | Open PRs | Closed issues | Open issues | Commits |
 |---|---|---:|---:|---:|---:|---:|---:|
-| 30d | 2026-10-26 | 0 | 47 | 13 | 10 | 13 | 64 |
-| last60d | 2026-09-26 | 0 | 52 | 14 | 15 | 14 | 64 |
-| 90d | 2026-08-27 | 2 | 71 | 15 | 17 | 14 | 75 |
-| last180d | 2026-05-29 | 3 | 114 | 15 | 25 | 15 | 119 |
-| 360d | 2025-11-30 | 8 | 251 | 15 | 57 | 15 | 249 |
-| last720d | 2024-12-05 | 15 | 580 | 15 | 188 | 15 | 574 |
+| 30d | 2026-10-27 | 0 | 48 | 13 | 11 | 13 | 66 |
+| last60d | 2026-09-27 | 0 | 53 | 14 | 16 | 14 | 66 |
+| 90d | 2026-08-28 | 2 | 73 | 14 | 18 | 14 | 77 |
+| last180d | 2026-05-30 | 3 | 116 | 14 | 26 | 15 | 121 |
+| 360d | 2025-12-01 | 8 | 251 | 14 | 58 | 15 | 251 |
+| last720d | 2024-12-06 | 15 | 582 | 14 | 188 | 15 | 576 |
 
 ## Release assets
 
@@ -78,15 +78,6 @@ Lowest-scoring checks:
 | [copa_0.15.0_linux_arm64.tar.gz](https://github.com/project-copacetic/copacetic/releases/download/v0.15.0/copa_0.15.0_linux_arm64.tar.gz) | 9.0 MiB | `native/linux/arm64` |
 | [copa_0.15.0_linux_arm64.tar.gz.sbom.json](https://github.com/project-copacetic/copacetic/releases/download/v0.15.0/copa_0.15.0_linux_arm64.tar.gz.sbom.json) | 210.4 KiB | `native/linux/arm64` |
 
-## Distribution status
-
-Reported by **6** distros on [repology.org](https://repology.org/project/copacetic). **2** are ✅ on the latest upstream release, **4** are ⚠️ on an older version.
-
-| Distro | Version | Status |
-|--------|---------|--------|
-| Nix unstable | `0.14.2` | ⚠️ outdated |
-| openSUSE Tumbleweed | `0.15.0` | ✅ latest |
-
 ## Improve this data
 
 Install metadata for copacetic lives in the [x-cmd/install](https://github.com/x-cmd/install) index — a curated YAML package list that x-cmd consumes at install time. If `copacetic` is missing, out of date, or installs incorrectly, please open an issue or PR there:
@@ -96,4 +87,4 @@ Install metadata for copacetic lives in the [x-cmd/install](https://github.com/x
 
 The data on this page (card / loc / scorecard / release) is auto-collected by [x-cmd-install-action](https://github.com/x-cmd-install/x-cmd-install-action) and is regenerated daily. Improvements to *install behaviour* (which version gets installed, platform-specific quirks, dependencies) belong upstream in the index.
 
-_Snapshot: `data/card/261125.yml` · 2026-11-25T07:06:20Z._
+_Snapshot: `data/card/261126.yml` · 2026-11-26T06:57:23Z._
